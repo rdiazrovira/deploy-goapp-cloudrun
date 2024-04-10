@@ -84,7 +84,7 @@ Now, let's create the service.
 
 Go to **Cloud Run**, click **Create Service**.
 
-In the page **Create Service**, choose the option **Continuously deploy from a repository.**, and click **Setup with Cloud Build**.
+In the page **Create Service**, choose the option **Continuously deploy from a repository**, and click **Setup with Cloud Build**.
 
 In the page **Set up with Cloud Build**, choose the Github repository where the TODOx application is hosted, choose the branch on which the deployments will be based, choose the **build type** (we will be using **Docker**), set the source location, and click **Save**.
 
